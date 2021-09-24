@@ -2,7 +2,6 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # practise editing and pull requests
-description: Adding a modification to this file as a test objective
 # probot
 - project: probot
   role: Contributor
